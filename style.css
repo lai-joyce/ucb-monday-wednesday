@@ -1,0 +1,57 @@
+h1 {
+	text-align:center;
+	}
+
+.red {
+	color: red;
+}
+
+.blue {
+	color: blue;
+}
+
+.green {
+	color: green;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.BIG {
+	font-size: 36px;
+}
+
+.TINY {
+	font-size: 10px;
+}
+
+.centered {
+	text-align: center;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.family {
+	font-family: cursive;
+}
+
+.multiple {
+	font-size: 36px;
+	color: orange;
+	font-weight: bold;
+}
+
+.styledFont {
+	font-family: fantasy;
+}
+
+#styledImage {
+	border-width: 50px;
+	border-style: solid;
+	border-color: orange;
+}
